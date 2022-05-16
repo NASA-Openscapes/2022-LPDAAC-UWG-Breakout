@@ -1,5 +1,5 @@
-# 2022-ECOSTRESS-ScienceTeam-Workshop
+# 2022 LP DAAC Cloud Breakout Session
 
-2022 workshop on finding, accessing, and analyzing ECOSTRESS version 2 data products in Earthdata Cloud, hosted by NASA LP DAAC.
+2022 workshop on finding, accessing, and cloud data assets.
 
 ![](https://nasa-openscapes.github.io/)
