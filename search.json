@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cloud-paradigm.html",
+    "href": "cloud-paradigm.html",
+    "title": "NASA and the Cloud Paradigm",
+    "section": "",
+    "text": "Slides that introduce NASA Earthdata Cloud & the Cloud Paradigm."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "2022 ECOSTRESS Cloud Workshop",
+    "section": "Welcome",
+    "text": "Welcome\n\nWelcome to the 2022 ECOSTRESS Cloud Workshop hosted by NASA’s Land Processes Distributed Activate Archive (LP DAAC) with support from NASA Openscapes.\nThe workshop will take place virtually daily on April 12 and 13, 2022 from 2pm-5:30pm PST (UTC-7)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "2022 ECOSTRESS Cloud Workshop",
+    "section": "About",
+    "text": "About\n\nWorkshop Goal\nThe goal of the workshop is expose ECOSTRESS data users to ECOSTRESS version 2 (v2) data products in the cloud. Learning objectives focus on how to find and access ECOSTRESS v2 data from Earthdata Cloud either by downloading or accessing the data on the cloud. The LP DAAC is the NASA archive for ECOSTRESS data products. ECOSTRESS v2 data products will hosted in the NASA Earthdata Cloud, hosted in AWS.\n\n\nWorkshop Description\nThe goal of the workshop is expose ECOSTRESS data users to ECOSTRESS version 2 data products in the cloud. Learning objectives focus on how to finda and access ECOSTRESS version 2 data from Earthdata Cloud either by downloading or accessing the data on the cloud. The LP DAAC is the NASA archive for ECOSTRESS data products. ECOSTRESS version 2 data products will hosted in the NASA Earthdata Cloud, hosted in AWS.\nThe workshop will demonstrate how to find, access, and download ECOSTRESS v2 data from the Earthdata Cloud. Participants will learn how to search for and download data from NASA’s Earthdata Search Client, a graphical user interface (GUI) for search, discovery, and download application for also EOSDIS data assets. Participants will also learn how to perform in-could data search, access, and processing routines where no data download is required, and data analysis can take place next to the data in the cloud.\n\n\nWorkshop Outcomes\nAt the end of the two days, participants should be able to find and access ECOSTRESS v2 data in the NASA Earthdata Cloud (hosted in AWS). Workshop materials will be available for future reference following the completion of the workshop/ECOSTRESS Science Team meeting\n\nNOTE: ECOSTRESS v2 data will only be available to approved individuals. Please work with Christine Lee (christine.m.lee@jpl.nasa.gov) to have your name added to the allowlist."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "2022 ECOSTRESS Cloud Workshop",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n2022 ECOSTRESS Cloud Workshop is hosted by NASA’s LP DAAC with support from the NASA Openscapes Project, with cloud computing infrastructure by 2i2c."
+  },
+  {
+    "objectID": "further-resources.html#a-growing-list-of-resources",
+    "href": "further-resources.html#a-growing-list-of-resources",
+    "title": "Additional resources",
+    "section": "A growing list of resources!",
+    "text": "A growing list of resources!\n\nOne stop for PO.DAAC Cloud Information: Cloud Data page with About, Cloud Datasets, Access Data, FAQs, Resources, and Migration information\nAsk questions or find resources: PO.DAAC in the CLOUD Forum\nCloud user migration overview, guidance, and resources: PO.DAAC Webinar\nSearch and get access links: Earthdata Search Client and guide\nSearch and get access links: PO.DAAC Cloud Earthdata Search Portal\nBrowse cloud data in web-based browser: CMR Virtual Browse and guiding video\nScripted data search end-point: Earthdata Common Metadata Repository (CMR) API\nEnable data download or access: Obtain Earthdata Login Account\nDownload data regularly: PO.DAAC Data Subscriber Access video and PO.DAAC Data Subscriber instructions\nBulk Download guide\nOPeNDAP in the cloud\nPO.DAAC scripts and notebooks: PO.DAAC Github\nHow to get started in the AWS cloud: Earthdata Cloud Primer documents\n2021 NASA Cloud Hackathon - November 2021, co-hosted by PODAAC, NSIDC DAAC, and LPDAAC. Additional support is provided by ASDC, GESDISC, IMPACT, and Openscapes.\nNASA Earthdata: How to Cloud\nSetting up Jupyter Notebooks in a user EC2 instance in AWS - helpful blog post for setting up jupyter notebooks in an EC2 instance in AWS. (Builds on the Cloud Primer tutorials, which are missing that next step)"
+  },
+  {
+    "objectID": "further-resources.html#additional-tutorials",
+    "href": "further-resources.html#additional-tutorials",
+    "title": "Additional resources",
+    "section": "Additional tutorials",
+    "text": "Additional tutorials\n\nData_Access__Direct_S3_Access__PODAAC_ECCO_SSH using CMR-STAC API to retrieve S3 links\nDirect access to ECCO data in S3 (from us-west-2) - Direct S3 access example with netCDF data\nDirect_S3_Access__gdalvrt\nDirect_S3_Access__rioxarray_clipping\nCalculate black-sky, white-sky, and actual albedo (MCD43A) from MCD43A1 BRDF Parameters using R\nXarray Zonal Statistics"
+  },
+  {
+    "objectID": "schedule.html#workshop-schedule",
+    "href": "schedule.html#workshop-schedule",
+    "title": "Schedule",
+    "section": "Workshop Schedule",
+    "text": "Workshop Schedule\n\nDay 1 - April 12, 2022\n\n\n\nTime, PST (UTC-7)\nEvent\nLeads/Instructors\n\n\n\n\n2:00 pm\nWelcome / Workshop Expectations\nAaron Friesz (LP DAAC) / Christine Lee (JPL)\n\n\n2:10 pm\nECOSTRESS Build 7 collection Overview\nChristine Lee & Gregory Halverson (JPL)\n\n\n2:25 pm\nEarthdata Cloud Overview\nAaron Friesz (LP DAAC)\n\n\n2:55 pm\nBreak/QA\n\n\n\n3:00 pm\nEarthdata Search Client (GUI)\nAaron Friesz (LP DAAC)\n\n\n3:30 pm\nBreak\n\n\n\n4:00 pm\nGetting set up / Intro to Pangeo\nAaron Friesz (LP DAAC)\n\n\n4:30 pm\nIntro to xarray & hvplot\nAaron Friesz (LP DAAC)\n\n\n5:15 pm\nBreak/QA\n\n\n\n\n\nClosing Day 1\n\nThank you!\nJupyterHub: close out.\n\nclose out your JupyterHub instance if you are finished for the day, following these instructions.\n\nContinued work.\n\nYou’re welcome to continue working beyond the workshop daily scheduled session, using JupyterHub.\n\nAgenda for tomorrow: what’s coming next.\n\n\n\n\nDay 2 - April 13, 2022\n\n\n\nTime, PST (UTC-7)\nEvent\nLeads/Instructors\n\n\n\n\n2:00 pm\nWelcome Back / Earthdata Authentication: Set up netrc file & Generate EDL Tokens\nAaron Friesz (LP DAAC)\n\n\n2:10 pm\nEarthdata Cloud: Search and Discovery - CMR API\nAaron Friesz (LP DAAC)\n\n\n2:45 pm\nBreak/QA\n\n\n\n2:50 pm\nEarthdata Cloud: Search and Discovery - Data Access\nAaron Friesz (LP DAAC)\n\n\n3:30 pm\nBreak\n\n\n\n4:00 pm\nComparing TNC Tree Data to ECOSTRESS Use Case\nGregory Halverson (JPL)\n\n\n5:00 pm\nBreak/QA\n\n\n\n\n\nClosing Day 2\n\nThank you!\nYou will continue to have access to the 2i2c JupyterHub in AWS for two weeks following the ECOSTRESS Cloud Workshop. You may use that time to continue work and all learn more about migrating data accass routines and science workflows to the Cloud. This cloud compute environment is supported by the NASA Openscapes project."
+  },
+  {
+    "objectID": "schedule.html#getting-help-during-the-workshop",
+    "href": "schedule.html#getting-help-during-the-workshop",
+    "title": "Schedule",
+    "section": "Getting help during the Workshop",
+    "text": "Getting help during the Workshop\nWe will use the ECOSTRESS Slack Workspace as our main channels for help. Please use Slack to post questions."
+  }
+]
