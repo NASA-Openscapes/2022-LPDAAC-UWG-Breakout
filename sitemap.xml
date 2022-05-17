@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/cloud-paradigm.html</loc>
-    <lastmod>2022-05-17T17:11:40.807Z</lastmod>
+    <lastmod>2022-05-17T17:12:46.657Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/index.html</loc>
-    <lastmod>2022-05-17T17:11:41.887Z</lastmod>
+    <lastmod>2022-05-17T17:12:47.753Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/further-resources.html</loc>
-    <lastmod>2022-05-17T17:11:42.251Z</lastmod>
+    <lastmod>2022-05-17T17:12:48.113Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/schedule.html</loc>
-    <lastmod>2022-05-17T17:11:42.591Z</lastmod>
+    <lastmod>2022-05-17T17:12:48.449Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/notebooks/Getting_Started/NASA_Earthdata_Authentication.html</loc>
+    <lastmod>2022-05-17T17:12:49.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/notebooks/Getting_Started/Intro_xarray_hvplot.html</loc>
+    <lastmod>2022-05-17T17:12:49.577Z</lastmod>
   </url>
 </urlset>
