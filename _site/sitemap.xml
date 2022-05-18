@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/cloud-paradigm.html</loc>
-    <lastmod>2022-05-18T19:21:54.879Z</lastmod>
+    <lastmod>2022-05-18T21:18:45.519Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Getting_Started/Intro_xarray_hvplot.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/schedule.html</loc>
-    <lastmod>2022-05-18T19:19:56.324Z</lastmod>
+    <lastmod>2022-05-18T21:20:47.856Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/further-resources.html</loc>
@@ -50,6 +50,6 @@
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/index.html</loc>
-    <lastmod>2022-05-18T19:21:52.350Z</lastmod>
+    <lastmod>2022-05-18T21:18:42.742Z</lastmod>
   </url>
 </urlset>
