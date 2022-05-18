@@ -2,24 +2,24 @@ project:
   type: website
 
 website:
-  title: "2022 ECOSTRESS Cloud Workshop"
-  site-url: https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/
-  repo-url: https://github.com/NASA-Openscapes/2022-ECOSTRESS-Cloud-Workshop
+  title: "2022 LP DAAC UWG Cloud Workshop"
+  site-url: https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/
+  repo-url: https://github.com/NASA-Openscapes/2022-LPDAAC-UWG-Breakout
   repo-actions: [edit, issue]
   page-navigation: true
-  page-footer: "LPDAAC & JPL (2022). 2022 ECOSTRESS Cloud Workshop"
+  page-footer: "LPDAAC (2022). 2022 LP DAAC UWG Cloud Workshop"
  
   navbar: 
     background: primary
     right: 
       - sidebar:welcome
       - icon: github
-        href: https://github.com/NASA-Openscapes/2022-ECOSTRESS-Cloud-Workshop
+        href: https://github.com/NASA-Openscapes/2022-LPDAAC-UWG-Breakout
  
   sidebar:
     - id: welcome
       title: "Menu"
-      logo: img/ecostress_lpdaac_image.jpg
+      logo: img/lpdaac-logo-black.png
       style: "docked"
       collapse-level: 1
       align: left
