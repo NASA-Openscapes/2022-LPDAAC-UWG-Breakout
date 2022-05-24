@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/schedule.html</loc>
-    <lastmod>2022-05-18T21:29:30.445Z</lastmod>
+    <lastmod>2022-05-24T21:19:28.324Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/index.html</loc>
-    <lastmod>2022-05-18T21:29:31.445Z</lastmod>
+    <lastmod>2022-05-24T21:19:29.677Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Data_Access_and_Processing/Multi-File_Direct_S3_Access_NetCDF_Example.html</loc>
-    <lastmod>2022-05-18T21:29:38.109Z</lastmod>
+    <lastmod>2022-05-24T21:19:39.093Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Data_Access_and_Processing/Earthdata_Cloud__Single_File__HTTPS_Access_COG_Example.html</loc>
-    <lastmod>2022-05-18T21:29:38.489Z</lastmod>
+    <lastmod>2022-05-24T21:19:39.565Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Data_Access_and_Processing/Earthdata_Cloud__Single_File__Direct_S3_Access_NetCDF4_Example.html</loc>
-    <lastmod>2022-05-18T21:29:43.485Z</lastmod>
+    <lastmod>2022-05-24T21:19:46.498Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Data_Access_and_Processing/Earthdata_Cloud__Single_File__Direct_S3_Access_Clip_COG_Example.html</loc>
-    <lastmod>2022-05-18T21:30:06.297Z</lastmod>
+    <lastmod>2022-05-24T21:20:17.760Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Data_Access_and_Processing/Earthdata_Cloud__Single_File__Direct_S3_Access_COG_Example.html</loc>
-    <lastmod>2022-05-18T21:30:16.577Z</lastmod>
+    <lastmod>2022-05-24T21:20:32.129Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Data_Access_and_Processing/Multi-File_Direct_S3_Access_COG_Example.html</loc>
-    <lastmod>2022-05-18T21:30:17.769Z</lastmod>
+    <lastmod>2022-05-24T21:20:33.737Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Getting_Started/Intro_xarray_hvplot.html</loc>
-    <lastmod>2022-05-18T21:30:18.221Z</lastmod>
+    <lastmod>2022-05-24T21:20:34.253Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Getting_Started/NASA_Earthdata_Authentication.html</loc>
-    <lastmod>2022-05-18T21:30:18.757Z</lastmod>
+    <lastmod>2022-05-24T21:20:34.926Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/notebooks/Search_and_Discovery/Data_Discovery_CMR_API_EDL_Token.html</loc>
-    <lastmod>2022-05-18T21:30:19.325Z</lastmod>
+    <lastmod>2022-05-24T21:20:35.626Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/cloud-paradigm.html</loc>
-    <lastmod>2022-05-18T21:30:19.605Z</lastmod>
+    <lastmod>2022-05-24T21:20:35.938Z</lastmod>
   </url>
   <url>
     <loc>https://nasa-openscapes.github.io/2022-LPDAAC-UWG-Breakout/further-resources.html</loc>
-    <lastmod>2022-05-18T21:30:19.913Z</lastmod>
+    <lastmod>2022-05-24T21:20:36.326Z</lastmod>
   </url>
 </urlset>
