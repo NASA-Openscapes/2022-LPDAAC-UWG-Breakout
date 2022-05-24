@@ -1,35 +1,44 @@
 ---
-title: "2022 LP DAAC UWG Cloud Workshop"
+title: "2022 LP DAAC UWG Breakout Session"
 subtitle: "Finding, accessing & analyzing data hosted in Earthdata Cloud"
  
-author: "This Workshop is hosted by NASA LP DAAC with support from NASA Openscapes."
+author: "This breakout session is hosted by NASA LP DAAC with support from NASA Openscapes."
 ---
 
 ## Welcome
 
 ![](img/lpdaac_hls_collage.jpg)
 
-Welcome to the **2022 LP DAAC UWG Cloud Workshop** hosted by NASA’s Land Processes Distributed Activate Archive ([LP DAAC]( https://lpdaac.usgs.gov/)) with support from [NASA Openscapes](https://nasa-openscapes.github.io/).
+Welcome to the **2022 LP DAAC UWG Breakout Session** hosted by NASA’s Land Processes Distributed Activate Archive ([LP DAAC]( https://lpdaac.usgs.gov/)) with support from [NASA Openscapes](https://nasa-openscapes.github.io/).
 
 **The workshop will take place in-person (!) on May 26, 2022 from 8:30am - 12:00pm CDT [(UTC-5)](https://www.timeanddate.com/time/zones/cdt)**.
 
+## Agenda
 
+### May 26th, 2022
 
-## About
+| Time, CDT [(UTC-5)](https://www.timeanddate.com/time/zones/cdt) | Event | Leads/Instructors | Reference/Resource |
+|------|-------|-------|-------|
+| 8:45 am | Welcome / Workshop Expectations | Aaron Friesz & Danielle Golon | |
+| 8:50 am | LP DAAC Website Tour | Danielle Golon | |
+| 9:20 am | AppEEARS Demo | Danielle Golon | |
+| 9:50 am | Earthdata Search Demo | Danielle Golon | |
+| 10:15 am | Break/QA | | |
+| 10:30 am | Earthdata Cloud - Bulk Download | Aaron Friesz | |
+| 10:45 am | Openscapes 2i2c workspace ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Hackathon.git&urlpath=lab%2Ftree%2F2021-Cloud-Hackathon.git%2F&branch=main)) | Aaron Friesz | [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) |
+| 10:55 am | Earthdata Cloud - CMR API ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Hackathon.git&urlpath=lab%2Ftree%2F2021-Cloud-Hackathon.git%2F&branch=main)) | Aaron Friesz | [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) |
+| 11:20 am | Earthdata Cloud - CMR STAC API ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Hackathon.git&urlpath=lab%2Ftree%2F2021-Cloud-Hackathon.git%2F&branch=main)) | Aaron Friesz | [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) |
+| 11:50 am | Break/QA | |
+| 12:05 pm | Intro to xarray ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Hackathon.git&urlpath=lab%2Ftree%2F2021-Cloud-Hackathon.git%2F&branch=main)) | Aaron Friesz | [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) |
+| 12:20 am | Earthdata Cloud - COG Data Access ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Workshop-AGU.git&urlpath=lab%2Ftree%2F2021-Cloud-Workshop-AGU.git%2F&branch=main)) | Aaron Friesz | [2021 Earthdata Cloud Workshop at AGU](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/) |
+| 12:35 am | Earthdata Cloud - NetCDF Data Access with Kerchunk ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2Fearthdata-cloud-cookbook.git&urlpath=lab%2Ftree%2Fearthdata-cloud-cookbook.git%2F&branch=main)) | Aaron Friesz | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) |
+| 12:45 pm | Break/QA/Lunch | |
 
-### Workshop Goal
+## Additional Resources
 
-The goal of the workshop is expose data users to working with NASA Earthdata cloud data assets from a work environment in the cloud (AWS us-west 2). Learning objectives focus on how to find and access data from Earthdata Cloud either by downloading or accessing the data on the cloud. 
-
-### Workshop Description
-
-The workshop will demonstrate how to find, access, and process data from the Earthdata Cloud. Participants will learn how to search for and download data from NASA’s Earthdata Search Client, a graphical user interface (GUI) for search, discovery, and download application for also EOSDIS data assets. Participants will also learn how to perform in-could data search, access, and processing routines where no data download is required, and data analysis can take place next to the data in the cloud. 
-
-### Workshop Outcomes
-
-At the end of the two days, participants should be familiar with finding and accessing data in NASA Earthdata Cloud (hosted in AWS). [Workshop materials](https://github.com/NASA-Openscapes/2022-LPDAAC-UWG-Breakout) are available for future reference
-
+- [Intro to NASA Cloud Data Access](https://git.earthdata.nasa.gov/projects/LPDUR/repos/lpdaac_cloud_data_access/browse)
+- [2022 ECOSTRESS Workshop](https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/)
 
 ## Acknowledgements
 
-2022 LP DAAC UWG Cloud Workshop is hosted by NASA's LP DAAC with support from the NASA Openscapes Project, with cloud computing infrastructure by 2i2c. 
+2022 LP DAAC UWG breakout session is hosted by NASA's LP DAAC with support from the NASA Openscapes Project, with cloud computing infrastructure by 2i2c. 
