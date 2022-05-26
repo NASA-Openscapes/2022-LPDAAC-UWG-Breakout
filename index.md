@@ -25,7 +25,7 @@ Welcome to the **2022 LP DAAC UWG Breakout Session** hosted by NASA’s Land Pro
 | 9:50 am | Earthdata Search Demo | Danielle Golon | |
 | 10:15 am | Break/QA | | |
 | 10:30 am | Earthdata Cloud - Bulk Download | Aaron Friesz | |
-| 10:45 am | Openscapes 2i2c workspace ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Hackathon.git&urlpath=lab%2Ftree%2F2021-Cloud-Hackathon.git%2F&branch=main)) | Aaron Friesz | [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) |
+| 10:45 am | [Openscapes 2i2c workspace](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/tutorials/00_Setup.html) | Aaron Friesz | [2021 Earthdata Cloud Workshop at AGU](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/) |
 | 10:55 am | Earthdata Cloud - CMR API ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Hackathon.git&urlpath=lab%2Ftree%2F2021-Cloud-Hackathon.git%2F&branch=main)) | Aaron Friesz | [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) |
 | 11:20 am | Earthdata Cloud - CMR STAC API ([Launch](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNASA-Openscapes%2F2021-Cloud-Hackathon.git&urlpath=lab%2Ftree%2F2021-Cloud-Hackathon.git%2F&branch=main)) | Aaron Friesz | [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) |
 | 11:50 am | Break/QA | |
